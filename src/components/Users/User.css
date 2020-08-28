@@ -1,0 +1,17 @@
+.my-card{
+  margin-bottom:20px;
+}
+.card-img,.card-username,.card-button {
+  display: block;
+  margin: 0 auto;
+}
+
+.card-img{
+  width:55px;
+  margin-top: 8px;
+}
+
+.card-username{
+  text-align: center;
+  margin-bottom: 17px;
+}

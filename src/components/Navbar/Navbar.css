@@ -1,0 +1,22 @@
+.navbar{
+  background: #ba2929;
+}
+
+.fa-github{
+  margin-right:1rem;
+  font-size: 2rem;
+  color:white;
+}
+
+/* a.links{
+  color:white!important;
+  margin: 0 0.6rem;
+ } */
+
+ /* or  */
+
+.navbar .ml-auto .links{
+ color:white;
+ margin: 0 0.6rem;
+}
+
